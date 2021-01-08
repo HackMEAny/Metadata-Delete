@@ -1,9 +1,9 @@
 # Deletion of Metadata from an Image file
-## **Screenshot of the Metadata for the image before Deleting**
+## **Screenshot of the Metadata for the image before deleting**
 ![Metadata](Before_Deleting.png?raw=true "Metadata")<br>
 [Click Here to get the entire screenshot](Before_Deleting.txt)
 
-## **Screenshot of the Metadata for the image after Deleting**
+## **Screenshot of the Metadata for the image after deleting**
 ![No_Metadata](After_Deleting.png?raw=true "No_Metadata")<br>
 [Click Here to get the entire screenshot](After_Deleting.txt)
 
